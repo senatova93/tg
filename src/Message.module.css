@@ -1,0 +1,36 @@
+.message {
+    padding: 200px;
+    background: #81c7ff;
+    color: #ededed;
+}
+.cloud {
+    /*border: 2px solid #fff;*/
+    border-radius: 10px;
+    height: auto;
+    max-width: 400px;
+    padding: 20px;
+    position: relative;
+    background-color: white;
+    color: black;
+}
+.cloud:before {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: white;
+    background-image: url("https://www.meme-arsenal.com/memes/36d6c0bca90dd84a2fa69c54fc954a7b.jpg");
+    background-size: 100% 100%;
+    position: absolute;
+    bottom: 0%;
+    left: -140px;
+    content: '';
+}
+
+.cloud:after  {
+    border: 15px solid transparent;
+    border-bottom-color: white;
+    position: absolute;
+    bottom: 0%;
+    left: -15px;
+    content: '';
+}
