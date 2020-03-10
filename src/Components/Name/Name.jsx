@@ -1,7 +1,7 @@
 import React from 'react';
-import styles from './NameMessage.module.css';
+import styles from './Name.module.css';
 
-function NameMessage() {
+function Name() {
   return (
     <div className={styles.nameMessage}>
     Анастасия
@@ -12,4 +12,4 @@ function NameMessage() {
   );
 }
 
-export default NameMessage;
+export default Name;

@@ -1,11 +1,11 @@
 import React from 'react'
-import Message from "./Message"
+import Cloud from "./Components/Cloud/Cloud"
 
 
 function App() {
   return (
     <div className="App">
-    <Message/>
+    <Cloud/>
 
     </div>
 

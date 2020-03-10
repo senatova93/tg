@@ -1,7 +1,7 @@
 import React from 'react';
-import styles from './MainMessage.module.css';
+import styles from './Text.module.css';
 
-function MainMessage() {
+function Text() {
   return (
     <div className={styles.mainMessage}>
         Верстка это полный отстой)))
@@ -12,4 +12,4 @@ function MainMessage() {
   );
 }
 
-export default MainMessage;
+export default Text;
