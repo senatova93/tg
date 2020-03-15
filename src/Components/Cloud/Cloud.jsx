@@ -9,7 +9,6 @@ function Cloud() {
     <div className={styles.message}>
         <div className={styles.cloud}>
      <Name/>
-
      <Text/>
      <Time/>
 

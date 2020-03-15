@@ -1,5 +1,8 @@
 .message {
-    padding: 200px;
+
+    weight: 200px;
+    height: 100px;
+    padding: 200px ;
     background: #81c7ff;
     color: #ededed;
 }

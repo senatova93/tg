@@ -5,8 +5,10 @@ function Text() {
   return (
     <div className={styles.mainMessage}>
         Верстка это полный отстой)))
-        jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
-        sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+        Верстка это полный отстой)))
+        Верстка это полный отстой)))
+        Верстка это полный отстой)))
+
 
         </div>
 
